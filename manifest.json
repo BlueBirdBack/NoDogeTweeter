@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "NoDogeTweeter",
+  "version": "0.3.0",
+  "description": "Revert the Doge logo and restore the original Twitter logo.",
+  "permissions": ["activeTab", "tabs"],
+  "action": {
+    "default_popup": "",
+    "default_icon": {
+      "16": "assets/twitter-16.png",
+      "24": "assets/twitter-24.png",
+      "32": "assets/twitter-32.png",
+      "48": "assets/twitter-48.png",
+      "64": "assets/twitter-64.png",
+      "128": "assets/twitter-128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "16": "assets/twitter-16.png",
+    "24": "assets/twitter-24.png",
+    "32": "assets/twitter-32.png",
+    "48": "assets/twitter-48.png",
+    "64": "assets/twitter-64.png",
+    "128": "assets/twitter-128.png"
+  }
+}
