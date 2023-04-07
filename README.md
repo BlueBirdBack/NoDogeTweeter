@@ -4,6 +4,8 @@ NoDogeTweeter is a Chrome extension that reverts the Twitter logo back to its or
 
 ![Marquee](./assets/marquee-promo.png)
 
+**Note:** Elon Musk changed the Twitter logo back to its original design, making this extension unnecessary. However, you can still use this as an example of how to create a Chrome extension to modify website elements.
+
 ## Features
 
 - Automatically detects the Doge logo on Twitter and replaces it with the original Twitter logo
