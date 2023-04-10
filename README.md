@@ -27,6 +27,10 @@ The NoDogeTweeter extension should now be installed and active in your Chrome br
 
 After installing the extension, simply visit Twitter, and the logo should be automatically reverted to the original one.
 
+## Known Issues
+
+- The extension currently does not support Twitter's dark mode
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
