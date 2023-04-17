@@ -1,12 +1,12 @@
-# Privacy Policy for KnowingStopGPT (知止)
+# Privacy Policy for KnowingStop (知止)
 
 Last updated: 2023/4/5
 
-This privacy policy describes how KnowingStopGPT (知止) collects, uses, and protects any information that you provide when using our Chrome extension.
+This privacy policy describes how KnowingStop (知止) collects, uses, and protects any information that you provide when using our Chrome extension.
 
 ## Information We Collect
 
-KnowingStopGPT (知止) does not collect any personally identifiable information from users.
+KnowingStop (知止) does not collect any personally identifiable information from users.
 
 ## How We Use Information
 
@@ -24,4 +24,4 @@ You are advised to review this privacy policy periodically for any changes. Chan
 
 ## Contact Us
 
-If you have any questions about this privacy policy, please contact us via KnowingStopGPT@hotmail.com.
+If you have any questions about this privacy policy, please contact us via KnowingStop@hotmail.com.
