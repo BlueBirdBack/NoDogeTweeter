@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "NoDogeTweeter",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Revert the Doge logo and restore the original Twitter logo.",
   "permissions": ["activeTab", "tabs"],
   "action": {
